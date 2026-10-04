@@ -5,9 +5,9 @@
 
 **Автор:** Oleg Doronin ([@Logos-AOD](https://github.com/Logos-AOD))  
 **Направление:** Data Analyst
+**Email:** doroninoleg@yandex.ru
+**Telegram:** @Oleg7160
 
-**Email:** [doroninoleg@yandex.ru]
-**Telegram:** [@Oleg7160]
 ---
 
 ## Содержание
